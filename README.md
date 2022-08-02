@@ -12,11 +12,11 @@
 접두사 기반으로 제작된 임시 음성채널 봇입니다.
 
 
-> **사용방법**:<br/>
-> 1. setup명령어 사용 하여 카테고리 생성
+### **사용방법**:<br/>
+1. setup명령어 사용 하여 카테고리 생성
 <img src="https://github.com/HNCODE/Voice.channel/blob/main/asset/.github/1.PNG" width="10%" alt="command1"><br/>
-> 2. 방/방만들기 카테고리에는 자동으로 생성 될 음성 채널 생성.
-> 3. 음성 채널 입장시 임시 음성채널 및 채팅채널 자동 생성
+2. 방/방만들기 카테고리에는 자동으로 생성 될 음성 채널 생성.
+3. 음성 채널 입장시 임시 음성채널 및 채팅채널 자동 생성
 <img src="https://github.com/HNCODE/Voice.channel/blob/main/asset/.github/2.PNG" width="10%" alt="command2"><br/>
 
 # 사용 조건
