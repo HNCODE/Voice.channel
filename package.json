@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "discord.js": "^12.5.3",
+    "glob": "^7.1.6",
+    "mongoose": "^5.12.4",
+    "node-uuid": "^1.4.8",
+    "path": "^0.12.7",
+    "winston": "^3.3.3"
+  },
+  "name": "temporary_vc",
+  "version": "1.0.0",
+  "main": "init.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "description": ""
+}
