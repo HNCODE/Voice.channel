@@ -24,7 +24,7 @@
 사용 전, 아래 과정을 거쳐주세요.
 #### 1. setting.js를 메인폴더에 생성해주세요.
 `bot`: `token`, `prefix`, `owners` | 
-`db`: `mongo`: `url`, ``user, `password`, `options`
+`db`: `mongo`: `url`, `user`, `password`, `options`
 
 ### 2. 모듈을 설치해주세요.
 `npm i` or `npm install`
